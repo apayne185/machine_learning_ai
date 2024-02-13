@@ -40,11 +40,6 @@ What would be the expected range of prices for a a car with the following featur
 
 
 
-Done in a group assignment with Isa, Juan Diego
-
-
-
-
 ## Question 3
 If a given car weights 1500 kg (```Peso (kg)```) and is 4600 mm long (```Largo (mm)```), 1900 mm wide (```Ancho (mm)```) and 1400 mm tall (```Alto (mm)```), what could be its body type (```Carrocería```) (assign probabilities to your opinion)
 
@@ -56,3 +51,6 @@ question3 = {
     "Alto (mm)":1400.0
 }
 
+
+
+Done in a group assignment with Isa, Juan Diego
